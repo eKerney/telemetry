@@ -1,0 +1,102 @@
+{
+    "ADSB_VEHICLE": [
+        "ICAO_address",
+        "lat",
+        "lon",
+        "altitude",
+        "heading",
+        "hor_velocity",
+        "ver_velocity",
+        "callsign",
+        "emitter_type",
+        "tslc",
+        "squawk",
+        "flags"
+    ],
+    "AHRS3": [
+        "roll",
+        "pitch",
+        "yaw",
+        "altitude",
+        "lat",
+        "lng"
+    ],
+    "ATTITUDE": [
+        "time_boot_ms",
+        "roll",
+        "pitch",
+        "yaw",
+        "rollspeed",
+        "pitchspeed",
+        "yawspeed"
+    ],
+    "BATTERY_STATUS": [
+        "id",
+        "voltages",
+        "current_battery",
+        "current_consumed",
+        "energy_consumed",
+        "battery_remaining"
+    ],
+    "GLOBAL_POSITION_INT": [
+        "time_boot_ms",
+        "lat",
+        "lon",
+        "alt",
+        "relative_alt",
+        "vy",
+        "hdg",
+        "vx",
+        "vz"
+    ],
+    "HEARTBEAT": [
+        "type",
+        "base_mode",
+        "system_status",
+        "autopilot",
+        "custom_mode"
+    ],
+    "MISSION_CURRENT": [
+        "seq"
+    ],
+    "PARAM_VALUE": [
+        "param_id",
+        "param_value",
+        "param_type",
+        "param_index"
+    ],
+    "RANGEFINDER": [
+        "distance"
+    ],
+    "RPM": [
+        "rpm1"
+    ],
+    "SCALED_PRESSURE": [
+        "time_boot_ms",
+        "press_abs",
+        "temperature"
+    ],
+    "TERRAIN_REPORT": [
+        "lat",
+        "lon",
+        "terrain_height",
+        "current_height",
+        "loaded",
+        "pending"
+    ],
+    "VFR_HUD": [
+        "airspeed",
+        "groundspeed",
+        "throttle",
+        "alt",
+        "climb",
+        "heading"
+    ],
+    "VIBRATION": [
+        "time_usec",
+        "vibration_x",
+        "vibration_y",
+        "vibration_z",
+        "clipping_2"
+    ]
+}

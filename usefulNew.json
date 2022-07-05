@@ -1,0 +1,344 @@
+{
+    "ADSB_VEHICLE": [
+        "ICAO_address",
+        "lat",
+        "lon",
+        "altitude_type",
+        "altitude",
+        "heading",
+        "hor_velocity",
+        "ver_velocity",
+        "callsign",
+        "emitter_type",
+        "tslc",
+        "flags",
+        "squawk"
+    ],
+    "AHRS": [
+        "omegaIx",
+        "omegaIy",
+        "omegaIz",
+        "error_rp",
+        "error_yaw"
+    ],
+    "AHRS2": [
+        "roll",
+        "pitch",
+        "yaw"
+    ],
+    "AHRS3": [
+        "roll",
+        "pitch",
+        "yaw",
+        "altitude",
+        "lat",
+        "lng"
+    ],
+    "ATTITUDE": [
+        "time_boot_ms",
+        "roll",
+        "pitch",
+        "yaw",
+        "rollspeed",
+        "pitchspeed",
+        "yawspeed"
+    ],
+    "AUTOPILOT_VERSION_REQUEST": [
+        "target_component"
+    ],
+    "BATTERY2": [
+        "voltage",
+        "current_battery"
+    ],
+    "BATTERY_STATUS": [
+        "voltages",
+        "id",
+        "current_battery",
+        "current_consumed",
+        "energy_consumed",
+        "battery_remaining",
+        "temperature"
+    ],
+    "COMMAND_ACK": [
+        "command"
+    ],
+    "COMMAND_LONG": [
+        "target_component",
+        "command",
+        "param1",
+        "param3"
+    ],
+    "DISTANCE_SENSOR": [
+        "time_boot_ms",
+        "current_distance"
+    ],
+    "EKF_STATUS_REPORT": [
+        "flags",
+        "velocity_variance",
+        "pos_horiz_variance",
+        "pos_vert_variance",
+        "compass_variance"
+    ],
+    "FILE_TRANSFER_PROTOCOL": [
+        "target_system",
+        "target_component",
+        "payload"
+    ],
+    "GLOBAL_POSITION_INT": [
+        "time_boot_ms",
+        "lon",
+        "alt",
+        "relative_alt",
+        "vz",
+        "lat",
+        "vx",
+        "vy",
+        "hdg"
+    ],
+    "GPS_GLOBAL_ORIGIN": [
+        "time_usec"
+    ],
+    "GPS_RAW_INT": [
+        "time_usec",
+        "lat",
+        "lon",
+        "alt",
+        "eph",
+        "epv",
+        "vel",
+        "cog",
+        "satellites_visible",
+        "h_acc",
+        "v_acc",
+        "vel_acc",
+        "fix_type"
+    ],
+    "HEARTBEAT": [
+        "type",
+        "base_mode",
+        "system_status",
+        "autopilot",
+        "custom_mode"
+    ],
+    "HOME_POSITION": [
+        "time_usec"
+    ],
+    "HWSTATUS": [
+        "Vcc"
+    ],
+    "LOCAL_POSITION_NED": [
+        "time_boot_ms",
+        "x",
+        "y",
+        "z",
+        "vx",
+        "vy",
+        "vz"
+    ],
+    "MEMINFO": [
+        "freemem32"
+    ],
+    "MISSION_ACK": [
+        "type",
+        "target_system",
+        "target_component"
+    ],
+    "MISSION_COUNT": [
+        "target_system",
+        "target_component"
+    ],
+    "MISSION_CURRENT": [
+        "seq"
+    ],
+    "MISSION_ITEM_INT": [
+        "target_system",
+        "target_component",
+        "x",
+        "y",
+        "z",
+        "seq",
+        "frame",
+        "command",
+        "param1",
+        "param4"
+    ],
+    "MISSION_ITEM_REACHED": [
+        "seq"
+    ],
+    "MISSION_REQUEST": [
+        "seq"
+    ],
+    "MISSION_REQUEST_INT": [
+        "seq"
+    ],
+    "NAV_CONTROLLER_OUTPUT": [
+        "nav_roll",
+        "nav_pitch",
+        "nav_bearing",
+        "alt_error",
+        "xtrack_error",
+        "target_bearing",
+        "wp_dist"
+    ],
+    "PARAM_REQUEST_LIST": [
+        "target_component"
+    ],
+    "PARAM_REQUEST_READ": [
+        "target_component",
+        "param_index"
+    ],
+    "PARAM_VALUE": [
+        "param_id",
+        "param_value",
+        "param_type",
+        "param_index"
+    ],
+    "POSITION_TARGET_GLOBAL_INT": [
+        "time_boot_ms",
+        "lat_int",
+        "lon_int",
+        "alt"
+    ],
+    "POWER_STATUS": [
+        "Vcc",
+        "Vservo"
+    ],
+    "RANGEFINDER": [
+        "distance"
+    ],
+    "RAW_IMU": [
+        "time_usec",
+        "xacc",
+        "yacc",
+        "zacc",
+        "xgyro",
+        "ygyro",
+        "zgyro",
+        "xmag",
+        "ymag",
+        "zmag",
+        "temperature"
+    ],
+    "RC_CHANNELS": [
+        "time_boot_ms",
+        "chan2_raw",
+        "chan3_raw",
+        "chan4_raw",
+        "chan5_raw",
+        "chan9_raw",
+        "chan12_raw",
+        "chan1_raw",
+        "chan7_raw",
+        "chan8_raw",
+        "chan10_raw",
+        "chan6_raw"
+    ],
+    "REQUEST_DATA_STREAM": [
+        "req_stream_id",
+        "req_message_rate",
+        "target_component"
+    ],
+    "RPM": [
+        "rpm1"
+    ],
+    "SCALED_IMU2": [
+        "time_boot_ms",
+        "xacc",
+        "yacc",
+        "zacc",
+        "xgyro",
+        "ygyro",
+        "zgyro",
+        "xmag",
+        "ymag",
+        "zmag"
+    ],
+    "SCALED_IMU3": [
+        "time_boot_ms",
+        "xacc",
+        "yacc",
+        "zacc",
+        "xgyro",
+        "ygyro",
+        "zgyro",
+        "xmag",
+        "ymag",
+        "zmag",
+        "temperature"
+    ],
+    "SCALED_PRESSURE": [
+        "time_boot_ms",
+        "press_abs",
+        "temperature"
+    ],
+    "SCALED_PRESSURE2": [
+        "time_boot_ms",
+        "press_abs",
+        "temperature"
+    ],
+    "SENSOR_OFFSETS": [
+        "raw_press",
+        "raw_temp",
+        "mag_declination",
+        "gyro_cal_x",
+        "gyro_cal_y",
+        "gyro_cal_z"
+    ],
+    "SERVO_OUTPUT_RAW": [
+        "time_usec",
+        "servo1_raw",
+        "servo2_raw",
+        "servo3_raw",
+        "servo4_raw",
+        "servo5_raw",
+        "servo8_raw",
+        "servo6_raw"
+    ],
+    "STATUSTEXT": [
+        "text",
+        "severity"
+    ],
+    "SYSTEM_TIME": [
+        "time_unix_usec",
+        "time_boot_ms"
+    ],
+    "SYS_STATUS": [
+        "onboard_control_sensors_enabled",
+        "onboard_control_sensors_health",
+        "load",
+        "voltage_battery",
+        "onboard_control_sensors_present",
+        "battery_remaining"
+    ],
+    "TERRAIN_CHECK": [
+        "lat",
+        "lon"
+    ],
+    "TERRAIN_REPORT": [
+        "lat",
+        "lon",
+        "terrain_height",
+        "current_height",
+        "pending",
+        "loaded"
+    ],
+    "TIMESYNC": [
+        "tc1",
+        "ts1"
+    ],
+    "VFR_HUD": [
+        "airspeed",
+        "groundspeed",
+        "heading",
+        "throttle",
+        "alt",
+        "climb"
+    ],
+    "VIBRATION": [
+        "time_usec",
+        "vibration_x",
+        "vibration_y",
+        "vibration_z",
+        "clipping_2"
+    ]
+}
