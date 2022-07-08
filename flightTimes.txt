@@ -1,0 +1,330 @@
+Processing log 00000063.BIN
+In air at Mon Jun 13 10:01:58 2022 (percent 15% groundspeed 3.1)
+On ground at Mon Jun 13 10:03:25 2022 (percent 22.3% groundspeed 2.8  time=87.0 seconds)
+In air at Mon Jun 13 10:03:30 2022 (percent 23% groundspeed 3.0)
+On ground at Mon Jun 13 10:04:54 2022 (percent 29.4% groundspeed 2.9  time=84.0 seconds)
+In air at Mon Jun 13 10:05:00 2022 (percent 30% groundspeed 3.2)
+On ground at Mon Jun 13 10:05:56 2022 (percent 34.3% groundspeed 2.5  time=56.0 seconds)
+In air at Mon Jun 13 10:06:19 2022 (percent 36% groundspeed 3.0)
+On ground at Mon Jun 13 10:06:46 2022 (percent 38.3% groundspeed 2.5  time=27.0 seconds)
+In air at Mon Jun 13 10:07:06 2022 (percent 40% groundspeed 3.1)
+On ground at Mon Jun 13 10:07:37 2022 (percent 42.4% groundspeed 2.8  time=31.0 seconds)
+In air at Mon Jun 13 10:07:46 2022 (percent 43% groundspeed 3.1)
+On ground at Mon Jun 13 10:08:33 2022 (percent 46.8% groundspeed 2.6  time=47.0 seconds)
+In air at Mon Jun 13 10:08:56 2022 (percent 49% groundspeed 3.1)
+On ground at Mon Jun 13 10:09:31 2022 (percent 51.4% groundspeed 3.0  time=35.0 seconds)
+In air at Mon Jun 13 10:09:32 2022 (percent 51% groundspeed 3.0)
+On ground at Mon Jun 13 10:09:32 2022 (percent 51.4% groundspeed 2.8  time=0.0 seconds)
+In air at Mon Jun 13 10:09:33 2022 (percent 52% groundspeed 3.2)
+On ground at Mon Jun 13 10:11:07 2022 (percent 59.0% groundspeed 2.8  time=94.0 seconds)
+In air at Mon Jun 13 10:11:20 2022 (percent 60% groundspeed 3.1)
+On ground at Mon Jun 13 10:12:24 2022 (percent 65.1% groundspeed 2.8  time=64.0 seconds)
+In air at Mon Jun 13 10:12:46 2022 (percent 67% groundspeed 3.1)
+On ground at Mon Jun 13 10:12:56 2022 (percent 67.7% groundspeed 2.8  time=10.0 seconds)
+In air at Mon Jun 13 10:13:02 2022 (percent 68% groundspeed 3.4)
+On ground at Mon Jun 13 10:13:25 2022 (percent 70.0% groundspeed 2.7  time=23.0 seconds)
+In air at Mon Jun 13 10:13:31 2022 (percent 70% groundspeed 3.2)
+On ground at Mon Jun 13 10:14:54 2022 (percent 77.1% groundspeed 2.9  time=83.0 seconds)
+In air at Mon Jun 13 10:15:00 2022 (percent 78% groundspeed 3.2)
+On ground at Mon Jun 13 10:16:24 2022 (percent 84.2% groundspeed 3.0  time=84.0 seconds)
+In air at Mon Jun 13 10:16:30 2022 (percent 85% groundspeed 3.3)
+On ground at Mon Jun 13 10:17:54 2022 (percent 91.3% groundspeed 3.0  time=84.0 seconds)
+In air at Mon Jun 13 10:18:00 2022 (percent 92% groundspeed 3.1)
+On ground at Mon Jun 13 10:18:26 2022 (percent 93.9% groundspeed 2.9  time=26.0 seconds)
+Flight time : 13:55
+Total time in air: 13:55
+Total distance travelled: 6409.1 meters
+Processing log 00000064.BIN
+In air at Mon Jun 13 10:54:41 2022 (percent 10% groundspeed 3.2)
+On ground at Mon Jun 13 10:56:09 2022 (percent 22.6% groundspeed 2.8  time=88.0 seconds)
+In air at Mon Jun 13 10:56:15 2022 (percent 23% groundspeed 3.2)
+On ground at Mon Jun 13 10:57:38 2022 (percent 35.0% groundspeed 2.8  time=83.0 seconds)
+In air at Mon Jun 13 10:57:44 2022 (percent 36% groundspeed 3.1)
+On ground at Mon Jun 13 10:59:08 2022 (percent 47.4% groundspeed 2.9  time=84.0 seconds)
+In air at Mon Jun 13 10:59:13 2022 (percent 48% groundspeed 3.0)
+On ground at Mon Jun 13 11:00:37 2022 (percent 59.8% groundspeed 2.9  time=84.0 seconds)
+In air at Mon Jun 13 11:00:43 2022 (percent 61% groundspeed 3.2)
+On ground at Mon Jun 13 11:02:06 2022 (percent 72.3% groundspeed 2.8  time=83.0 seconds)
+In air at Mon Jun 13 11:02:12 2022 (percent 73% groundspeed 3.0)
+On ground at Mon Jun 13 11:03:36 2022 (percent 84.7% groundspeed 3.0  time=84.0 seconds)
+In air at Mon Jun 13 11:03:41 2022 (percent 86% groundspeed 3.0)
+On ground at Mon Jun 13 11:04:09 2022 (percent 89.4% groundspeed 3.0  time=28.0 seconds)
+Flight time : 8:54
+Total time in air: 8:54
+Total distance travelled: 4602.8 meters
+Processing log 00000065.BIN
+In air at Mon Jun 13 15:37:35 2022 (percent 12% groundspeed 3.0)
+On ground at Mon Jun 13 15:39:03 2022 (percent 23.6% groundspeed 2.9  time=88.0 seconds)
+In air at Mon Jun 13 15:39:08 2022 (percent 24% groundspeed 3.1)
+On ground at Mon Jun 13 15:40:32 2022 (percent 35.8% groundspeed 2.7  time=84.0 seconds)
+In air at Mon Jun 13 15:40:37 2022 (percent 37% groundspeed 3.2)
+On ground at Mon Jun 13 15:42:01 2022 (percent 48.1% groundspeed 3.0  time=84.0 seconds)
+In air at Mon Jun 13 15:42:07 2022 (percent 49% groundspeed 3.0)
+On ground at Mon Jun 13 15:43:31 2022 (percent 60.4% groundspeed 2.9  time=84.0 seconds)
+In air at Mon Jun 13 15:43:36 2022 (percent 61% groundspeed 3.1)
+On ground at Mon Jun 13 15:45:00 2022 (percent 72.7% groundspeed 3.0  time=84.0 seconds)
+In air at Mon Jun 13 15:45:05 2022 (percent 73% groundspeed 3.2)
+On ground at Mon Jun 13 15:46:29 2022 (percent 85.0% groundspeed 2.9  time=84.0 seconds)
+In air at Mon Jun 13 15:46:35 2022 (percent 86% groundspeed 3.0)
+On ground at Mon Jun 13 15:47:02 2022 (percent 89.5% groundspeed 3.0  time=27.0 seconds)
+Flight time : 8:55
+Total time in air: 8:55
+Total distance travelled: 4595.4 meters
+Processing log 00000066.BIN
+In air at Wed Jun 15 11:10:30 2022 (percent 26% groundspeed 3.1)
+On ground at Wed Jun 15 11:10:38 2022 (percent 28.0% groundspeed 2.9  time=8.0 seconds)
+In air at Wed Jun 15 11:11:12 2022 (percent 37% groundspeed 3.0)
+On ground at Wed Jun 15 11:11:43 2022 (percent 44.3% groundspeed 3.0  time=31.0 seconds)
+In air at Wed Jun 15 11:11:44 2022 (percent 45% groundspeed 3.0)
+On ground at Wed Jun 15 11:12:56 2022 (percent 62.6% groundspeed 3.0  time=72.0 seconds)
+In air at Wed Jun 15 11:14:29 2022 (percent 72% groundspeed 4.4)
+On ground at Wed Jun 15 11:14:50 2022 (percent 72.8% groundspeed 2.8  time=21.0 seconds)
+In air at Wed Jun 15 11:15:17 2022 (percent 74% groundspeed 3.7)
+On ground at Wed Jun 15 11:15:42 2022 (percent 75.4% groundspeed 0.7  time=25.0 seconds)
+In air at Wed Jun 15 11:16:02 2022 (percent 76% groundspeed 3.2)
+On ground at Wed Jun 15 11:16:28 2022 (percent 77.4% groundspeed 0.9  time=26.0 seconds)
+In air at Wed Jun 15 11:16:35 2022 (percent 78% groundspeed 3.3)
+On ground at Wed Jun 15 11:16:38 2022 (percent 78.3% groundspeed 2.9  time=3.0 seconds)
+Flight time : 3:06
+Total time in air: 3:06
+Total distance travelled: 1242.0 meters
+Processing log 00000067.BIN
+In air at Wed Jun 15 11:40:06 2022 (percent 26% groundspeed 3.1)
+On ground at Wed Jun 15 11:40:50 2022 (percent 36.7% groundspeed 2.9  time=44.0 seconds)
+In air at Wed Jun 15 11:41:54 2022 (percent 52% groundspeed 3.2)
+On ground at Wed Jun 15 11:43:32 2022 (percent 75.6% groundspeed 2.8  time=98.0 seconds)
+Flight time : 2:22
+Total time in air: 2:22
+Total distance travelled: 1372.6 meters
+Processing log 00000068.BIN
+In air at Wed Jun 15 12:13:05 2022 (percent 53% groundspeed 3.2)
+On ground at Wed Jun 15 12:13:27 2022 (percent 60.9% groundspeed 2.9  time=22.0 seconds)
+In air at Wed Jun 15 12:14:33 2022 (percent 79% groundspeed 3.6)
+On ground at Wed Jun 15 12:16:30 2022 (percent 94.1% groundspeed 0.1  time=117.0 seconds)
+Flight time : 2:19
+Total time in air: 2:19
+Total distance travelled: 1385.7 meters
+Processing log 00000069.BIN
+In air at Wed Jun 15 13:48:17 2022 (percent 40% groundspeed 3.1)
+On ground at Wed Jun 15 13:48:23 2022 (percent 42.2% groundspeed 2.8  time=6.0 seconds)
+In air at Wed Jun 15 13:48:25 2022 (percent 43% groundspeed 3.1)
+On ground at Wed Jun 15 13:49:04 2022 (percent 57.9% groundspeed 3.0  time=39.0 seconds)
+In air at Wed Jun 15 13:49:39 2022 (percent 71% groundspeed 3.1)
+On ground at Wed Jun 15 13:51:18 2022 (percent 88.5% groundspeed 0.8  time=99.0 seconds)
+Flight time : 2:24
+Total time in air: 2:24
+Total distance travelled: 1364.9 meters
+Processing log 00000070.BIN
+In air at Wed Jun 15 13:59:26 2022 (percent 27% groundspeed 3.0)
+On ground at Wed Jun 15 13:59:47 2022 (percent 32.9% groundspeed 3.0  time=21.0 seconds)
+In air at Wed Jun 15 14:00:23 2022 (percent 43% groundspeed 3.2)
+On ground at Wed Jun 15 14:02:16 2022 (percent 74.5% groundspeed 3.0  time=113.0 seconds)
+Flight time : 2:14
+Total time in air: 2:14
+Total distance travelled: 1367.8 meters
+Processing log 00000071.BIN
+In air at Thu Jun 16 10:36:54 2022 (percent 26% groundspeed 3.1)
+On ground at Thu Jun 16 10:37:01 2022 (percent 27.6% groundspeed 2.8  time=7.0 seconds)
+In air at Thu Jun 16 10:37:03 2022 (percent 28% groundspeed 3.0)
+On ground at Thu Jun 16 10:37:42 2022 (percent 39.3% groundspeed 2.9  time=39.0 seconds)
+In air at Thu Jun 16 10:38:02 2022 (percent 45% groundspeed 3.0)
+On ground at Thu Jun 16 10:39:39 2022 (percent 73.1% groundspeed 3.0  time=97.0 seconds)
+Flight time : 2:23
+Total time in air: 2:23
+Total distance travelled: 1381.4 meters
+Processing log 00000072.BIN
+In air at Fri Jun 17 08:58:32 2022 (percent 26% groundspeed 3.1)
+On ground at Fri Jun 17 08:59:17 2022 (percent 39.3% groundspeed 2.9  time=45.0 seconds)
+In air at Fri Jun 17 08:59:36 2022 (percent 45% groundspeed 3.0)
+On ground at Fri Jun 17 09:01:14 2022 (percent 70.3% groundspeed 3.0  time=98.0 seconds)
+Flight time : 2:23
+Total time in air: 2:23
+Total distance travelled: 1364.4 meters
+Processing log 00000073.BIN
+In air at Fri Jun 17 09:14:16 2022 (percent 26% groundspeed 3.0)
+On ground at Fri Jun 17 09:14:39 2022 (percent 33.1% groundspeed 2.8  time=23.0 seconds)
+In air at Fri Jun 17 09:14:59 2022 (percent 39% groundspeed 3.1)
+On ground at Fri Jun 17 09:16:52 2022 (percent 73.1% groundspeed 2.8  time=113.0 seconds)
+Flight time : 2:16
+Total time in air: 2:16
+Total distance travelled: 1376.6 meters
+Processing log 00000074.BIN
+In air at Fri Jun 17 09:28:16 2022 (percent 29% groundspeed 3.0)
+On ground at Fri Jun 17 09:30:07 2022 (percent 66.9% groundspeed 2.9  time=111.0 seconds)
+Flight time : 1:51
+Total time in air: 1:51
+Total distance travelled: 1348.3 meters
+Processing log 00000075.BIN
+In air at Fri Jun 17 09:36:10 2022 (percent 16% groundspeed 3.2)
+On ground at Fri Jun 17 09:37:56 2022 (percent 33.8% groundspeed 1.9  time=106.0 seconds)
+In air at Fri Jun 17 09:53:16 2022 (percent 67% groundspeed 3.1)
+On ground at Fri Jun 17 09:55:07 2022 (percent 85.6% groundspeed 3.0  time=111.0 seconds)
+Flight time : 3:37
+Total time in air: 3:37
+Total distance travelled: 2702.7 meters
+Processing log 00000076.BIN
+In air at Fri Jun 17 10:02:54 2022 (percent 34% groundspeed 3.0)
+On ground at Fri Jun 17 10:04:41 2022 (percent 70.2% groundspeed 1.9  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1353.4 meters
+Processing log 00000077.BIN
+In air at Fri Jun 17 10:21:16 2022 (percent 29% groundspeed 3.0)
+On ground at Fri Jun 17 10:21:22 2022 (percent 30.7% groundspeed 3.0  time=6.0 seconds)
+In air at Fri Jun 17 10:21:24 2022 (percent 31% groundspeed 3.1)
+On ground at Fri Jun 17 10:23:11 2022 (percent 67.6% groundspeed 2.8  time=107.0 seconds)
+Flight time : 1:53
+Total time in air: 1:53
+Total distance travelled: 1354.6 meters
+Processing log 00000078.BIN
+In air at Fri Jun 17 10:30:07 2022 (percent 32% groundspeed 3.1)
+On ground at Fri Jun 17 10:31:54 2022 (percent 69.8% groundspeed 2.0  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1346.0 meters
+Processing log 00000079.BIN
+In air at Sun Jun 19 08:47:55 2022 (percent 30% groundspeed 3.3)
+On ground at Sun Jun 19 08:49:47 2022 (percent 66.5% groundspeed 2.9  time=112.0 seconds)
+Flight time : 1:52
+Total time in air: 1:52
+Total distance travelled: 1351.4 meters
+Processing log 00000080.BIN
+In air at Sun Jun 19 09:01:36 2022 (percent 25% groundspeed 3.2)
+On ground at Sun Jun 19 09:01:58 2022 (percent 30.7% groundspeed 2.2  time=22.0 seconds)
+In air at Sun Jun 19 09:02:31 2022 (percent 39% groundspeed 3.0)
+On ground at Sun Jun 19 09:02:34 2022 (percent 39.3% groundspeed 2.6  time=3.0 seconds)
+In air at Sun Jun 19 09:03:40 2022 (percent 55% groundspeed 3.1)
+On ground at Sun Jun 19 09:05:09 2022 (percent 77.2% groundspeed 2.1  time=89.0 seconds)
+Flight time : 1:54
+Total time in air: 1:54
+Total distance travelled: 1362.5 meters
+Processing log 00000081.BIN
+In air at Sun Jun 19 09:12:51 2022 (percent 29% groundspeed 3.0)
+On ground at Sun Jun 19 09:14:43 2022 (percent 66.8% groundspeed 3.0  time=112.0 seconds)
+Flight time : 1:52
+Total time in air: 1:52
+Total distance travelled: 1349.1 meters
+Processing log 00000082.BIN
+In air at Sun Jun 19 09:21:29 2022 (percent 15% groundspeed 3.0)
+On ground at Sun Jun 19 09:23:16 2022 (percent 32.4% groundspeed 3.0  time=107.0 seconds)
+In air at Sun Jun 19 09:33:19 2022 (percent 65% groundspeed 3.0)
+On ground at Sun Jun 19 09:35:11 2022 (percent 82.9% groundspeed 2.9  time=112.0 seconds)
+Flight time : 3:39
+Total time in air: 3:39
+Total distance travelled: 2696.6 meters
+Processing log 00000083.BIN
+In air at Sun Jun 19 09:46:58 2022 (percent 33% groundspeed 3.1)
+On ground at Sun Jun 19 09:48:45 2022 (percent 69.3% groundspeed 1.5  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1351.8 meters
+Processing log 00000084.BIN
+In air at Sun Jun 19 10:05:06 2022 (percent 28% groundspeed 3.1)
+On ground at Sun Jun 19 10:06:59 2022 (percent 62.8% groundspeed 3.0  time=113.0 seconds)
+Flight time : 1:53
+Total time in air: 1:53
+Total distance travelled: 1357.1 meters
+Processing log 00000085.BIN
+In air at Sun Jun 19 10:12:16 2022 (percent 30% groundspeed 3.1)
+On ground at Sun Jun 19 10:14:03 2022 (percent 67.7% groundspeed 2.2  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1345.5 meters
+Processing log 00000086.BIN
+In air at Sun Jun 19 10:31:35 2022 (percent 29% groundspeed 3.1)
+On ground at Sun Jun 19 10:33:28 2022 (percent 65.7% groundspeed 2.9  time=113.0 seconds)
+Flight time : 1:53
+Total time in air: 1:53
+Total distance travelled: 1351.8 meters
+Processing log 00000087.BIN
+In air at Sun Jun 19 10:39:11 2022 (percent 31% groundspeed 3.0)
+On ground at Sun Jun 19 10:40:58 2022 (percent 68.1% groundspeed 2.0  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1345.7 meters
+Processing log 00000088.BIN
+In air at Sun Jun 19 10:49:49 2022 (percent 32% groundspeed 3.0)
+On ground at Sun Jun 19 10:51:41 2022 (percent 66.9% groundspeed 2.7  time=112.0 seconds)
+Flight time : 1:52
+Total time in air: 1:52
+Total distance travelled: 1347.4 meters
+Processing log 00000089.BIN
+In air at Sun Jun 19 11:01:30 2022 (percent 31% groundspeed 3.1)
+On ground at Sun Jun 19 11:03:17 2022 (percent 67.9% groundspeed 2.6  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1344.8 meters
+Processing log 00000090.BIN
+In air at Mon Jun 20 08:14:44 2022 (percent 31% groundspeed 3.0)
+On ground at Mon Jun 20 08:16:36 2022 (percent 65.6% groundspeed 2.9  time=112.0 seconds)
+Flight time : 1:52
+Total time in air: 1:52
+Total distance travelled: 1351.9 meters
+Processing log 00000091.BIN
+In air at Mon Jun 20 08:24:43 2022 (percent 31% groundspeed 3.1)
+On ground at Mon Jun 20 08:26:30 2022 (percent 68.3% groundspeed 2.2  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1345.0 meters
+Processing log 00000092.BIN
+In air at Mon Jun 20 11:08:52 2022 (percent 29% groundspeed 3.1)
+On ground at Mon Jun 20 11:10:44 2022 (percent 66.7% groundspeed 3.0  time=112.0 seconds)
+Flight time : 1:52
+Total time in air: 1:52
+Total distance travelled: 1360.0 meters
+Processing log 00000093.BIN
+In air at Mon Jun 20 11:16:01 2022 (percent 31% groundspeed 3.0)
+On ground at Mon Jun 20 11:17:48 2022 (percent 68.2% groundspeed 2.8  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1341.2 meters
+Processing log 00000094.BIN
+In air at Tue Jun 21 10:23:39 2022 (percent 29% groundspeed 5.3)
+On ground at Tue Jun 21 10:25:29 2022 (percent 64.8% groundspeed 2.8  time=110.0 seconds)
+Flight time : 1:50
+Total time in air: 1:50
+Total distance travelled: 1352.8 meters
+Processing log 00000095.BIN
+In air at Tue Jun 21 10:40:48 2022 (percent 27% groundspeed 3.2)
+On ground at Tue Jun 21 10:40:53 2022 (percent 28.2% groundspeed 2.5  time=5.0 seconds)
+In air at Tue Jun 21 10:41:20 2022 (percent 37% groundspeed 3.3)
+On ground at Tue Jun 21 10:43:12 2022 (percent 71.9% groundspeed 2.2  time=112.0 seconds)
+Flight time : 1:57
+Total time in air: 1:57
+Total distance travelled: 1361.7 meters
+Processing log 00000096.BIN
+In air at Wed Jun 22 10:19:59 2022 (percent 29% groundspeed 3.1)
+On ground at Wed Jun 22 10:21:51 2022 (percent 65.7% groundspeed 2.8  time=112.0 seconds)
+Flight time : 1:52
+Total time in air: 1:52
+Total distance travelled: 1351.3 meters
+Processing log 00000097.BIN
+In air at Wed Jun 22 10:46:19 2022 (percent 30% groundspeed 3.0)
+On ground at Wed Jun 22 10:48:06 2022 (percent 68.6% groundspeed 2.3  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1347.8 meters
+Processing log 00000098.BIN
+In air at Thu Jun 23 10:09:07 2022 (percent 35% groundspeed 3.2)
+On ground at Thu Jun 23 10:10:58 2022 (percent 69.5% groundspeed 2.9  time=111.0 seconds)
+Flight time : 1:51
+Total time in air: 1:51
+Total distance travelled: 1352.1 meters
+Processing log 00000099.BIN
+In air at Thu Jun 23 10:20:23 2022 (percent 31% groundspeed 3.1)
+On ground at Thu Jun 23 10:22:10 2022 (percent 68.6% groundspeed 2.1  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1348.2 meters
+Processing log 00000100.BIN
+In air at Fri Jun 24 10:02:45 2022 (percent 31% groundspeed 3.1)
+On ground at Fri Jun 24 10:04:37 2022 (percent 65.1% groundspeed 2.9  time=112.0 seconds)
+Flight time : 1:52
+Total time in air: 1:52
+Total distance travelled: 1349.1 meters
+Processing log 00000101.BIN
+In air at Fri Jun 24 10:10:08 2022 (percent 32% groundspeed 3.0)
+On ground at Fri Jun 24 10:11:55 2022 (percent 68.8% groundspeed 2.0  time=107.0 seconds)
+Flight time : 1:47
+Total time in air: 1:47
+Total distance travelled: 1341.9 meters
